@@ -1,0 +1,15 @@
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/SortingApplication.deps.json
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/SortingApplication.runtimeconfig.json
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/SortingApplication.runtimeconfig.dev.json
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/SortingApplication.dll
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/ref/SortingApplication.dll
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/bin/Debug/net5.0/SortingApplication.pdb
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.csprojAssemblyReference.cache
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.AssemblyInfoInputs.cache
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.AssemblyInfo.cs
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.csproj.CoreCompileInputs.cache
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.dll
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/ref/SortingApplication.dll
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.pdb
+/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Sorting Algorithms/SortingApplication/obj/Debug/net5.0/SortingApplication.genruntimeconfig.cache
