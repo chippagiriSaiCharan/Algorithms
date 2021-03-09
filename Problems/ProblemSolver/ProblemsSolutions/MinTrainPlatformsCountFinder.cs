@@ -31,11 +31,15 @@ namespace ProblemSolver{
 
             for(int arrivalIndex = 1, departureIndex = 0, platfromsCount = 1; arrivalIndex < arrivalInformation.Count && departureIndex < departureInformation.Count; ){
                 if(arrivalInformation[arrivalIndex] <= departureInformation[departureIndex]){
+
                     platfromsCount++;
                     arrivalIndex++;
+
                 }else if(arrivalInformation[arrivalIndex] > departureInformation[departureIndex]){
+
                     platfromsCount--;
                     departureIndex++;
+                    
                 }
 
                 if(platfromsCount > minPlatformsRequired){

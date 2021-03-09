@@ -31,7 +31,7 @@ namespace ProblemSolver
             if((userPreference == 100) || (userPreference >= 1 && userPreference <= Utilities.ProblemsCount) ){
                 return userPreference;
             }
-
+            
             return 1;
         }
     }
