@@ -7,9 +7,16 @@ namespace ProblemSolver{
         List<int> numbersToSort;
 
         public void GetUserInput(){
-            Console.WriteLine("Please, enter the list of numbers to sort(Seperated in commas , :");
+            try{
+                Console.WriteLine("Please, enter the list of numbers to sort(Seperated in commas , :");
 
-            numbersToSort =  Console.ReadLine().Split(',').Select(Int32.Parse).ToList();
+                numbersToSort =  Console.ReadLine().Split(',').Select(Int32.Parse).ToList();
+            }
+            catch{
+                Console.WriteLine("Please, verify your input and share.");
+                GetUserInput();
+            }
+            
         }
 
         public void SolveProblem(){
@@ -32,7 +39,7 @@ namespace ProblemSolver{
         }
 
         private void PrintList(List<int> numbersList){
-            Console.Write("Sorted list of numbers: ");
+            Console.Write("Alternatively Sorted list of numbers: ");
             
             for(int index = 0; index < numbersList.Count - 1; index++){
                 Console.Write(numbersList[index] + ", ");

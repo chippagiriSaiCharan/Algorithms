@@ -5,18 +5,20 @@ using System.Text;
 namespace ProblemSolver{
     public static class Utilities{
         private static Dictionary<int, Type> problemsIndexes = new Dictionary<int, Type>();
-        
+
         public static int ProblemsCount{
             get{
                 return problemsIndexes.Count;
             }
         }
-        static Utilities(){
-            InitializeProblemsList();
-        } 
 
-        private static void InitializeProblemsList(){
-            problemsIndexes.Add(1, typeof(AlternateSorter));
+        static Utilities(){
+            AddProblemsToTheList(typeof(MinTrainPlatformsCountFinder));
+            AddProblemsToTheList(typeof(AlternateSorter));
+        }
+
+        private static void AddProblemsToTheList(Type specificProblemSolver ){
+            problemsIndexes.Add(problemsIndexes.Count + 1, specificProblemSolver);
         }
 
         public static string GetProblemsList(){

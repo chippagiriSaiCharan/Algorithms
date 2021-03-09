@@ -28,7 +28,7 @@ namespace ProblemSolver
 
             Int32.TryParse(Console.ReadLine(), out userPreference);
 
-            if((userPreference == 100) || (userPreference >= 1 && userPreference < Utilities.ProblemsCount) ){
+            if((userPreference == 100) || (userPreference >= 1 && userPreference <= Utilities.ProblemsCount) ){
                 return userPreference;
             }
 
