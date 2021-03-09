@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Problems/ProblemSolver/ProblemSolver.csproj": {}
+    "/Users/saicharanchippagiri/Documents/Archive/Algorithms/Problems/ProblemSolver/ProblemSolver.csproj": {}
   },
   "projects": {
-    "/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Problems/ProblemSolver/ProblemSolver.csproj": {
+    "/Users/saicharanchippagiri/Documents/Archive/Algorithms/Problems/ProblemSolver/ProblemSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Problems/ProblemSolver/ProblemSolver.csproj",
+        "projectUniqueName": "/Users/saicharanchippagiri/Documents/Archive/Algorithms/Problems/ProblemSolver/ProblemSolver.csproj",
         "projectName": "ProblemSolver",
-        "projectPath": "/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Problems/ProblemSolver/ProblemSolver.csproj",
+        "projectPath": "/Users/saicharanchippagiri/Documents/Archive/Algorithms/Problems/ProblemSolver/ProblemSolver.csproj",
         "packagesPath": "/Users/saicharanchippagiri/.nuget/packages/",
-        "outputPath": "/Users/saicharanchippagiri/Documents/Archive/AlgorithmsMIT/Problems/ProblemSolver/obj/",
+        "outputPath": "/Users/saicharanchippagiri/Documents/Archive/Algorithms/Problems/ProblemSolver/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/saicharanchippagiri/.nuget/NuGet/NuGet.Config"

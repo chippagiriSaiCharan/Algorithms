@@ -28,11 +28,11 @@ namespace ProblemSolver
 
             Int32.TryParse(Console.ReadLine(), out userPreference);
 
-            if(userPreference < 1 || userPreference > Utilities.ProblemsCount){
-                return 1;
+            if((userPreference == 100) || (userPreference >= 1 && userPreference < Utilities.ProblemsCount) ){
+                return userPreference;
             }
 
-            return userPreference;
+            return 1;
         }
     }
 }
