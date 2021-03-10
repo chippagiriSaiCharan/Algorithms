@@ -9,12 +9,12 @@ namespace ProblemSolver
 
             int sourceIndex;
 
-            Console.WriteLine("Give the source node(1 indexed format\n");
+            Console.WriteLine("Please, enter the source index: \n");
             Int32.TryParse(Console.ReadLine(), out sourceIndex);
-            BFSTraversal(graph, sourceIndex);
+            BFSTraversal(sourceIndex);
         }
 
-        private void BFSTraversal(int[,] graph, int sourceIndex){
+        private void BFSTraversal(int sourceIndex){
             Queue<int> traversalPath = new Queue<int>();
             bool [] visited= new bool[nodesCount];
 

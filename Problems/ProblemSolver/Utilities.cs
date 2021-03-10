@@ -16,6 +16,7 @@ namespace ProblemSolver{
             AddProblemsToTheList(typeof(MinTrainPlatformsCountFinder));
             AddProblemsToTheList(typeof(AlternateSorter));
             AddProblemsToTheList(typeof(Graph_BFS));
+            AddProblemsToTheList(typeof(Graph_DFS));
         }
 
         private static void AddProblemsToTheList(Type specificProblemSolver ){
